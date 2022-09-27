@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF :-1,FUTV HD CR
+http://160.20.164.171:8001/play/a00x
+#EXTINF:-1,EWTN
+http://160.20.164.171:8001/play/a01n
+#EXTINF :-1,Multimedios
+http://160.20.164.171:8001/play/a06x
+#EXTINF :-1 ,TD+2 HD CR
+http://160.20.164.171:8001/play/a07d
+#EXTINF :-1,TD+HD CR
+http://160.20.164.171:8001/play/a07c
+#EXTINF :-1,11 - Repretel
+http://45.236.28.72:8000/play/a0ec/index.m3u8
+#EXTINF :-1,123 TV
+http://45.236.28.72:8000/play/a069/index. m3u8
+#EXTINF :-1,13-Sinart
+http://45.236.28.72:8000/play/a0bu/index.m3u8
+#EXTINF :-1,4 - Repretel
+http://45.236.28.72:8000/play/a0fb/index .m3u8
+#EXTINF :-1,42 - Extra TV 42
+http://45.236.28.72:8000/play/a0bv/index.m3u8
+#EXTINF :-1,6 - Repretel
+http://45.236.28.72:8000/play /a0ea/index.m3u8
+#EXTINF :-1,7-Teletica
+http://45.236.28.72:8000/play/a0eb/index.m3u8
